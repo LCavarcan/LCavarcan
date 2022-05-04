@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Luiza Guimarães Cavarçan
 - 👀 I’m interested in Programming and learn
-- 🌱 I’m currently learning HTML5, CSS, JS, C and Python
+- 🌱 I’m currently learning C, CSS, HTML5, Java, JS and Python
 - 💞️ I’m looking to collaborate on any project that I can help
 - 📫 How to reach me? Send an email at gluizacavarcan@hotmail.com
 
