@@ -6,7 +6,6 @@
 
 ![LCavarcan Status](https://github-readme-stats.vercel.app/api?username=lcavarcan&show_icons=true)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=lcavarcan&layout=compact)](https://github.com/lcavarcan/github-readme-stats)
-![Snake animation](https://github.com/lcavarcan/lcavarcan/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 LCavarcan/LCavarcan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
