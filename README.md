@@ -1,41 +1,58 @@
 # 👋 Hi there, I'm Luiza Guimarães Cavarçan
 
-🎯 **Junior Data Analyst** passionate about turning data into insights
-💻 Interested in **Programming, Data Science, and Machine Learning**
-📊 Always learning and improving my skills in data-driven decision making
+🎯 **Junior Data Analyst** | Data Enthusiast
+📊 Transforming data into insights and decisions
+💡 Passionate about **Data Science, Machine Learning & AI**
 
 ---
 
 ## 🚀 About Me
 
-* 🌱 Currently working at **Usebens Seguradora**
-* 📚 Constantly learning new tools and technologies in data & AI
-* 🧠 Strong interest in using data to solve real-world problems
-* 🛠️ Experience with **Python, SQL, and data analysis workflows**
+* 💼 Currently working at **Usebens Seguradora**
+* 📚 Constantly improving my skills in **Data Analysis & AI**
+* 🧠 Strong interest in solving real-world problems with data
+* 🔍 Focused on extracting insights from complex datasets
 
 ---
 
-## 📫 Contact Me
+## 🛠️ Tech Stack
 
-* 📧 Email: **[luiza.cavarcan@hotmail.com](mailto:luiza.cavarcan@hotmail.com)**
+### 💻 Languages & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=database\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Luiza's GitHub stats](https://github-readme-stats.vercel.app/api?username=lcavarcan\&show_icons=true\&theme=default)
+![Luiza's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=lcavarcan\&show_icons=true\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lcavarcan\&layout=compact\&theme=default)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lcavarcan\&layout=compact\&theme=tokyonight)
 
 ---
 
-## ✨ A Bit More About Me
+## 📌 Featured Interests
 
-I enjoy exploring how data can tell stories and support better decisions.
-Currently diving deeper into **data analysis, machine learning, and AI applications**.
+* 📊 Data Analysis & Visualization
+* 🤖 Machine Learning
+* 🧬 AI applied to real-world problems
+* 📈 Data-driven decision making
+
+---
+
+## 📫 Contact Me
+
+📧 **[luiza.cavarcan@hotmail.com](mailto:luiza.cavarcan@hotmail.com)**
 
 ---
 
 <!---
-LCavarcan/LCavarcan is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
+LCavarcan/LCavarcan is a ✨ special ✨ repository because its README appears on your GitHub profile.
 --->
+* seção de projetos (tipo portfólio mesmo)
+* ou deixar mais focado pra vaga de Data/ML 👀
