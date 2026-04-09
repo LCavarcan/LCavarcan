@@ -1,13 +1,41 @@
-- 👋 Hi, I’m Luiza Guimarães Cavarçan
-- 👀 I’m interested in Programming and learn
-- 🌱 I’m currently learning C, CSS, HTML5, Java, JS and Python
-- 💞️ I’m looking to collaborate on any project that I can help
-- 📫 How to reach me? Send an email at gluizacavarcan@hotmail.com
+# 👋 Hi there, I'm Luiza Guimarães Cavarçan
 
-![LCavarcan Status](https://github-readme-stats.vercel.app/api?username=lcavarcan&show_icons=true)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=lcavarcan&layout=compact)](https://github.com/lcavarcan/github-readme-stats)
+🎯 **Junior Data Analyst** passionate about turning data into insights
+💻 Interested in **Programming, Data Science, and Machine Learning**
+📊 Always learning and improving my skills in data-driven decision making
+
+---
+
+## 🚀 About Me
+
+* 🌱 Currently working at **Usebens Seguradora**
+* 📚 Constantly learning new tools and technologies in data & AI
+* 🧠 Strong interest in using data to solve real-world problems
+* 🛠️ Experience with **Python, SQL, and data analysis workflows**
+
+---
+
+## 📫 Contact Me
+
+* 📧 Email: **[luiza.cavarcan@hotmail.com](mailto:luiza.cavarcan@hotmail.com)**
+
+---
+
+## 📊 GitHub Stats
+
+![Luiza's GitHub stats](https://github-readme-stats.vercel.app/api?username=lcavarcan\&show_icons=true\&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lcavarcan\&layout=compact\&theme=default)
+
+---
+
+## ✨ A Bit More About Me
+
+I enjoy exploring how data can tell stories and support better decisions.
+Currently diving deeper into **data analysis, machine learning, and AI applications**.
+
+---
 
 <!---
-LCavarcan/LCavarcan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+LCavarcan/LCavarcan is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 --->
