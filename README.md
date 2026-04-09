@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Luiza Guimarães Cavarçan
 
-🎯 **Junior Data Analyst** | Data Enthusiast
-📊 Transforming data into insights and decisions
+🎯 **Junior Data Analyst** | Data Enthusiast<br>
+📊 Transforming data into insights and decisions<br>
 💡 Passionate about **Data Science, Machine Learning & AI**
 
 ---
