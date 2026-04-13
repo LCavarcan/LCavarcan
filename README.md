@@ -51,8 +51,3 @@
 
 ---
 
-<!---
-LCavarcan/LCavarcan is a ✨ special ✨ repository because its README appears on your GitHub profile.
---->
-* seção de projetos (tipo portfólio mesmo)
-* ou deixar mais focado pra vaga de Data/ML 👀
